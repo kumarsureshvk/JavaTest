@@ -1,0 +1,11 @@
+#JSP Confing
+spring:
+     mvc:
+       view:
+         prefix: /WEB-INF/jsp/
+         suffix: .jsp
+#spring.mvc.view.suffix=.jsp
+#END
+
+#server.servlet.context-path=/api
+#spring.data.rest.basePath=/api
