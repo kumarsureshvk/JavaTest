@@ -31,7 +31,7 @@ public class Controller {
 
 	@RequestMapping("/")
 	public String name() {
-		return "Welcome to Home";
+		return "Welcome to Home Git Test";
 	}
 
 	@RequestMapping("/index")

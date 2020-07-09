@@ -92,7 +92,12 @@
 			<scope>runtime</scope>
 		</dependency>
 		<!-- Hibernate End -->
-    
+     <!-- Compile/runtime dependencies -->
+    <dependency>
+      <groupId>com.google.appengine</groupId>
+      <artifactId>appengine-api-1.0-sdk</artifactId>
+<!--       <version>${appengine.target.version}</version> -->
+    </dependency>
 	</dependencies>
 
 	<build>
