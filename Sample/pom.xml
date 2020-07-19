@@ -11,7 +11,7 @@
 	<groupId>com.wesure.dream.ITCPics</groupId>
 	<artifactId>maven-war-plugin</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
+	
 	<name>Sample</name>
 	<description>VKS ITCPics</description>
 
