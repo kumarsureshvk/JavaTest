@@ -9,3 +9,7 @@ spring:
 
 #server.servlet.context-path=/api
 #spring.data.rest.basePath=/api
+
+logging:
+    level.ROOT: INFO
+    level.org.springframework.test.web.servlet.result: DEBUG
