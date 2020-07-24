@@ -31,12 +31,12 @@ public class Controller {
 
 	@RequestMapping("/")
 	public String name() {
-		return "Welcome to Home Git Test";
+		return "Welcome to Home Git Test today";
 	}
 
 	@RequestMapping("/index")
 	public String name1() {
-		return "Welcome to Index";
+		return "Welcome to Index today1";
 	}
 
 	@RequestMapping(value = "/fileUpload", method = RequestMethod.GET)
@@ -54,7 +54,7 @@ public class Controller {
 		// application have write permissions on such directory)
 		String originaleRilename = uploadfile.getOriginalFilename();
 		String directory = context.getRealPath("/") + "schoolLogo";
-		System.out.println(directory);
+		System.out.println("Upload dir---<>"+directory);
 		String fileExtention = getExtensionByStringHandling(originaleRilename).get();
 		commonFileUpload(uploadfile, directory, originaleRilename + "");
 

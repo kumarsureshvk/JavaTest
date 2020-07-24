@@ -24,7 +24,7 @@ function uploadFile(schoolId) {
 }
 //ajax file upload End 
 </script>
-file upload
+file upload VK
 <form id="uploadForm">
 	<div class="row">
 		<div class="file-field input-field height2">
