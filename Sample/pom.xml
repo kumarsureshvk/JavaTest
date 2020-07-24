@@ -18,7 +18,10 @@
 
 
 	<properties>
-		<java.version>8</java.version>
+<!-- 		<java.version>8</java.version> -->
+		<maven.compiler.source>1.8</maven.compiler.source>
+  		<maven.compiler.target>1.8</maven.compiler.target>
+		
 	</properties>
 
 	<dependencies>
@@ -101,11 +104,23 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 
-			<plugin>
+			<!-- <plugin>
 				<groupId>com.google.cloud.tools</groupId>
 				<artifactId>appengine-maven-plugin</artifactId>
 
+			</plugin> -->
+			<plugin>
+			   <groupId>com.google.appengine</groupId>
+			   <artifactId>appengine-maven-plugin</artifactId>
+			   <version>1.9.81</version>
+			   <configuration>
+		         <enableJarClasses>false</enableJarClasses>
+<!-- 		         <port>8181</port> -->
+<!-- 		         <address>0.0.0.0</address> -->
+		        </configuration>
+					   
 			</plugin>
+						
 		</plugins>
 	</build>
 
