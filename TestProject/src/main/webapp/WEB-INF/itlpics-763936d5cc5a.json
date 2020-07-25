@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "itlpics",
+  "private_key_id": "763936d5cc5a38bb246dd74ced436d87bda51eb7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdehv1DJ9LtyXN\n+nFM8Gy7xsnzMQOLsiHVRan4pPhuAHHMQAtqJ/34IUXiuZoNs83AJQB43Vib3X0P\n3Qq9YvOVryT7fJu5WcHDf5VSos+MM9eD077OQgFMQS41bYoyv9xWKfy5VOssZ8Gz\n1vQJMWVIhIY03/bxQcG14xBDHF5JJQNhmijQHQE5yIu3q4C7yHt0WhxVm0CSZPYP\najdruq2GtqXDprmo0BA6KEsUlj7iRSfZg/ifk5Q4k8fJ/pzS5k4G8+ORaoHcYv37\nGhmjsVaV/+Ua2e1FIPRgLL6Az0F8Pkt9mOJSe/8iuVQVI0Zu0IkVwgamdjXr+5Wh\nWIwlBhWbAgMBAAECggEACA0UGSsFF3NJCOcK6m1d4qlZptYmgYjSo6mRnzypSGw7\nuoXz73IxplaRJkkiYABpDMwwYigy5JkfCazBOjMxE3rCz/+d3BsDfsAVmel3Hm4s\nwmNb8rCfGEEd9dgZWUungZI8hsZEKxf3kuKdb/Y3YLCXKfLEtOe4IOeFz2CO3F9m\nDrv6tbOOeINcArcikce4WwEBuyqyBhdeI157zRSFeCK5O8K362udDXY/9VPagf+E\nbuFF9r1XuLWOcWjnHPgfVvFuag2QAUU99BcbK9NffCaR/i+Ilw3ILfU8YJ/nRWg1\nzI63haxSbV0TwOac6i3OYIdHCkT8R/ht/bNF2pgZ0QKBgQDcnXfYIqPzeMbSMYYx\nn+d2jX4dNU7xXZup00gyfmdA1X3GgUkSbX0qBLAb/MlenQ48sx6kOoxW8C6s7UuV\nkJtAx3L3yynHCT9Ivw0BwGRjDDm+iM9yPqWsEiyi3iyM2XVuEI5/tP/48s2kyCU4\n2K/zDvUo4ZND3dDLMIEDl504cQKBgQC2vCsRUy5k1h60mUYYIl0qTShnYPz3XuOS\nXCHyYr8zivecpQloiTGk9VbUy2b3OnX7iKPKA2lZa8QGdejZVT2Gn523CArtsEje\nrw5Idv2G4aWo1i/gUDZzObNOCMzYm17hkcs9X1VQSxlRlrYRs+MBILtaD+EZd1ej\nfG5RFsmUywKBgC5Bgfg6Qx/wadd2dMmA2nob7p5XKAcpdlLkLtYPdLy+RpHRV63a\ncQzXUMl9dgc1bN/DOqB6eiRcVZ0CX/+rAzJQ30UfPtIxmSg6jpKYcTPnQ1A0xTIR\n+pCaeutnI/YgPiPmqsoR/D2JQx7SrCNAI5wVvcdljIgFQRrpP5OuPVOxAoGAT+26\ngNd7gYvO3nv0lvXg/nHFbIKV47XToN8/0f+zVl5AtHnTxa/M0TSnCGj33sfpd15r\nFh+r4vsqQREuCnIoeUwz9i1EancjSJQVkUjK2Ea26UTWqC0tw/THIyjiQRSkydG1\nrmCWtopCxtc/SDsA3ittB5XOhg8XfGEe98UZ40UCgYB8zHZdJf4EoacDSE3d+L7J\naPdeqj5vDD4pYIuu7t7H0RkE4k/0UUEYAO6++7FG+dTlN709lIweA4npSO5q3znS\nNS0DDdgJ9+62RO472i8Z7kMVGDtbZ+Anpzaz3MUiNSGTBPrDxXr/akH6EQD18/cj\nZj6U8rFA6AgdzBXLOLHRBg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "itlpics-storage-bucket@itlpics.iam.gserviceaccount.com",
+  "client_id": "112738308170419033948",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/itlpics-storage-bucket%40itlpics.iam.gserviceaccount.com"
+}
