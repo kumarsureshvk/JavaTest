@@ -8,5 +8,6 @@
 </head>
 <body>
 web page  - JSP page
+ <img src="/resource/img_chania.jpg" alt="test img not found">
 </body>
 </html>
