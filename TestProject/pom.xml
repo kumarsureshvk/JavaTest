@@ -82,6 +82,11 @@
 			<version>3.4.4</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+		    <groupId>org.springframework.cloud</groupId>
+		    <artifactId>spring-cloud-gcp-starter-storage</artifactId>
+		</dependency>
 		<!-- app engine config end -->
 
 		<dependency>
